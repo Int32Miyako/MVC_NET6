@@ -1,0 +1,62 @@
+﻿@model IndexViewModel;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome, @Model.User!.Name</h1>
+    
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Cost</th>
+            <th>Amount</th>
+            <th>Action</th>
+        </tr>
+        
+        @foreach (var item in Model.Items!) //tr - ряд,  td - box
+        {
+            <tr>
+                <td>
+                    <!-- Id -->
+
+                    @item.Id
+                </td>
+
+                <td>
+                    <!-- Name -->
+
+                    @item.Name
+                </td>
+
+                <td>
+                    <!-- Description -->
+
+                    @item.Description
+                </td>
+
+                <td>
+                    <!-- Cost -->
+
+                    @item.Cost
+                </td>
+
+                <td>
+                    <!-- Amount -->
+
+                    @item.Amount
+                </td>
+
+                <td>
+                    <!-- Action -->
+
+                    @item.Action
+                </td>
+            </tr>
+        }
+        
+    </table>
+</div>

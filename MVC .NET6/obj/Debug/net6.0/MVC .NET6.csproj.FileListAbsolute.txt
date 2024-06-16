@@ -1,0 +1,29 @@
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.csproj.AssemblyReference.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.AssemblyInfoInputs.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.AssemblyInfo.cs
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.RazorAssemblyInfo.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.RazorAssemblyInfo.cs
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\appsettings.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\dataBase.Items.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.staticwebassets.runtime.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.exe
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.deps.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.runtimeconfig.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.dll
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\MVC .NET6.pdb
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\scopedcss\bundle\MVC .NET6.styles.css
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\scopedcss\projectbundle\MVC .NET6.bundle.scp.css
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.csproj.CopyComplete
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.dll
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\refint\MVC .NET6.dll
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.pdb
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\MVC .NET6.genruntimeconfig.cache
+C:\Users\Богдан\RiderProjects\MVC .NET6\MVC .NET6\obj\Debug\net6.0\ref\MVC .NET6.dll
